@@ -7,7 +7,6 @@
 <p align="center">
   Control MeRGBW LED strips and bulbs over Bluetooth LE.
 </p>
-# MeRGBW for Linux
 
 Functional rewrite of **MeRGBW 1.6.3 Android** (`com.mergbw.android`,
 APKPure XAPK, 29 MB) to control MeRGBW LED strips/bulbs over
