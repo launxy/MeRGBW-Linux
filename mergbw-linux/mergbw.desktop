@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=MeRGBW
+GenericName=Control LED Bluetooth
+Comment=Controla tiras y bombillas LED MeRGBW por Bluetooth LE
+Exec=/home/launxy/Projects/mergbw-linux/.venv/bin/mergbw-gui
+Icon=mergbw
+Terminal=false
+StartupNotify=true
+Categories=Settings;HardwareSettings;
+Keywords=MeRGBW;LED;RGB;Bluetooth;tira led;bombilla;
+StartupWMClass=mergbw

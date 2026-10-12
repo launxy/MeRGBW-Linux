@@ -1,0 +1,2 @@
+bleak>=0.21
+PySide6>=6.6  # solo para la GUI (mergbw-gui); el CLI solo necesita bleak

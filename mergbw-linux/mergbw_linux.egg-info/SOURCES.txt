@@ -1,0 +1,14 @@
+README.md
+pyproject.toml
+mergbw/__init__.py
+mergbw/cli.py
+mergbw/device.py
+mergbw/gui.py
+mergbw/protocol.py
+mergbw_linux.egg-info/PKG-INFO
+mergbw_linux.egg-info/SOURCES.txt
+mergbw_linux.egg-info/dependency_links.txt
+mergbw_linux.egg-info/entry_points.txt
+mergbw_linux.egg-info/requires.txt
+mergbw_linux.egg-info/top_level.txt
+tests/test_protocol.py

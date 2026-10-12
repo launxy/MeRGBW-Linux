@@ -1,0 +1,3 @@
+[console_scripts]
+mergbw = mergbw.cli:main
+mergbw-gui = mergbw.gui:main
