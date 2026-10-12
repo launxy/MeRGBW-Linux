@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="mergbw-linux/assets/mergbw.png" width="128" alt="MeRGBW icon">
+</p>
+
+<h1 align="center">MeRGBW for Linux</h1>
+
+<p align="center">
+  Control MeRGBW LED strips and bulbs over Bluetooth LE.
+</p>
 # MeRGBW for Linux
 
 Functional rewrite of **MeRGBW 1.6.3 Android** (`com.mergbw.android`,
